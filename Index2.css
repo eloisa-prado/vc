@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="eng" dir="ltr">
+	<head>
+	   <meta charset="utf-8">
+	   <title>Eloisa Prado</title>
+	   <link rel="stylesheet" type="text/css" href="Index2style.css">
+	   <link rel="shortcut icon" type="image/css" href="logo.png">
+	  
+	</head>
+	     
+	<body>
+	      
+	     <ul>
+		<li> <img src="logo.png" alt="logo" width="55" height="50"></a></li>
+  		<li><a href="index.html">Home</a></li>
+  		<li><a href="contact.html">Contact</a></li>
+  		<li><a href="about.html">About</a></li>
+		<li><a href="credits.html">Credits</a></li>
+	     </ul>  
+	     <div class="first">
+	 <br>
+	 <br>
+	 <br>
+	     <h2><img src="eloisa.jpeg" alt="eloisa" height="210" width="230"></h2>
+	     <h1 class="impact">I'm Eloisa</h1>
+	     <h3>Information Technology Student.</h3>
+	 <br>
+	 <br>      
+	     </div>
+       	   <div class="second">
+	 <br>
+	    
+	     <p> <a href="Whoami.html" class="button"> <img src="whoiam.jpg" alt="whoiam"width="80" height="70"></a> <a href="socialmedia.html" class="button"> <img src="socialmedia.png" alt="socialmedia"width="80" height="70"> </a> <a href="education.html" class="button"> <img src="education.png" alt="education"width="80" height="70"> </a> <a href="skills.html" class="button"> <img src="skills.jpg" alt="skills"width="80" height="70"> </a> <a href="Interest.html" class="button"> <img src="Interest.png" alt="Interest"width="80" height="70"> </a>
+	<br>
+	<br>	
+	     </div>
+	<br>
+	<br>
+	
+
+</body>
+</html>
+

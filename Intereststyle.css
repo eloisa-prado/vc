@@ -1,0 +1,132 @@
+img:hover {
+ 		    box-shadow: 0 0 2px 5px black;
+		      }
+		div.first{
+			width: 100%;
+			height: 100%;
+			background-color:#141d26; 
+			border: none;
+			text-align: center;
+			position: relative;
+			float: center;
+			margin-bottom: 10px;
+			margin-top: 8px;
+			margin-right: 40px; 
+			border-radius: 20px;
+		}
+		div.third{
+			width: 100%;
+			height: 100%;
+			background-color:#141d26; ;
+			border: none;
+			text-align: center;
+			position: relative;
+			float: center;
+			margin-bottom: 10px;
+			margin-top: 8px;
+			margin-right: 40px; 
+			border-radius: 20px;
+		}
+		
+		body {
+ 		    background-image: url("https://www.infiniticreation.co.uk/wp-content/uploads/2014/03/home_sec.jpg");
+		    background-color: #5c715e;
+		    background-size: 1400px 680px;
+			}
+		div.gallery {
+ 			 margin: 20px;
+  			border: .5px solid #ccc;
+  			float: left;
+  			width: 291px;
+				}
+
+		div.gallery:hover {
+ 			 border: .7px solid #777;
+				}
+
+		div.gallery img {
+  			width: 100%;
+  			height: auto%;
+				}
+		div.desc {
+  			padding: 30px;
+  			text-align: center;
+				}
+		h1{ font-family: "Skate Brand", courier; 
+			font-size: 120px;
+			color:white; 
+			font-style: normal;
+		        font-variant: normal; 
+			font-weight: 25; 
+			line-height: 30.4px; }
+		h2{ font-family: "Skate Brand", courier; 
+			font-size: 50px;
+			color:white; 
+			font-style: normal;
+		        font-variant: normal; 
+			font-weight: 25; 
+			line-height: 30.4px; }
+		h3{ font-family: "Skate Brand", courier; 
+			font-size: 60px;
+			color:white; 
+			font-style: normal;
+		        font-variant: normal; 
+			font-weight: 25; 
+			line-height: 30.4px; }
+		#Footer{
+			width: 100%;
+			height: 100%;
+			background-color:none ;
+			position: relative;
+			float: left;
+			border-color: none;
+			border-style: solid;
+			border-radius: 15px;
+			border-width: 2px;
+			margin-top: 2px;
+			color: none;
+			}
+		#Footer2{
+			float: right;
+		}
+
+		#Footer3{
+			text-decoration: none;
+			margin-left: 15px;
+			margin-right: 25px;
+			color: white;
+		}
+
+		#Footer3:hover{
+			background-color: black;
+			transition: .7s all;
+			border-radius: 15px;
+
+		}
+		ul{
+ 		   list-style-type: none;
+  		   margin: 0;
+ 		   padding: 3pxs;
+  		   overflow: hidden;
+  		   background-color:none;
+			}
+
+	       li {
+  		  float: center;
+			}
+
+	       li a {
+  		  display: block;
+  		  color: white;
+  		  text-align: center;
+  		  padding: 15px 5px;
+  		  text-decoration: none;
+			}
+
+	       li a:hover:not(.active) {
+		  background-color: #111;
+			}
+		a {
+  		    color: white;
+		  }
+		

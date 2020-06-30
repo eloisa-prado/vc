@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="eng" dir="ltr">
+	<head>
+	   <meta charset="utf-8">
+	   <title>Education</title>
+	   <link rel="stylesheet" type="text/css" href="educationstyle.css">
+	   <link rel="shortcut icon" type="image/css" href="logo.png">
+
+	   
+	</head>
+	<body>
+		<a href="Index2.html" class"button"> <img src="backarrow.png" alt="backarrow" height="40" width"55"> </a> 
+	     <div class="first">
+			<br>
+			<br>
+		<h2>Education</h2>
+	     		<br>
+			<br>
+    	     </div>
+	     <div class="second">
+			<br>
+			<br>
+		<ul>
+	  <h1>TERTIARY</h1>
+	       <ul>
+	        <li>Bachelor of Science in Information Technology</li>
+	        <li>Pangasinan State University</li>
+	        <li>Lingayen, Pangasinan</li>
+	        <li>2018 - Present </li>
+	</ul>
+	  <h1>SENIOR HIGH SCHOOL</h1>
+	       <ul>
+		<li>General Academic Strand</li>
+		<li>Pangasinan School of Arts and Trades</li>
+		<li>Lingayen, Pangasinan</li>
+	        <li>2016 - 2018</li>
+	</ul>
+	  <h1>JUNIOR HIGH SCHOOL</h1>
+	      <ul>
+	       <li>Dress making</li>
+	       <li>Pangasinan School of Arts and Trades</li>
+	       <li>Lingayen Pangasinan</li>
+	       <li>2012 - 2016</li>
+	 </ul>
+	  <h1>PRIMARY</h1>
+	 <ul>
+		<li>Quibaol Elementary School</li>
+		<li>Lingayen, Pangasinan</li>
+		<li>2005 - 2012
+	</ul>
+	</ul>
+		<br>
+		<br>
+	 </div>
+		
+	
+		<div id="Footer">
+		<!-- Left part footer -->
+		<div  style="position: none; float: left; font-size: 1.4vw; width: auto;height: auto;margin-left: auto;margin-top: 40px;">
+			<tr id="Footer1">
+				<th id="Footer2"><a id="Footer3" href="socialmedia.html" style="margin-right: 15px;">Feedback |</a> </th>
+				<th id="Footer2"><a id="Footer3" href="Report.html">Report Problem |</a> </th>
+				<th id="Footer2"><a id="Footer3" href="helpcenter.html">Help Center |</a></th>
+			</tr>
+		</div>
+
+		<!-- Right part Footer -->
+		<div style="position: none;float: right; font-size: 1.4vw;auto: 30%;auto: auto;margin-right: auto;margin-top: 40px;">
+			<tr id="Footer1">
+				<th id="Footer2"><a id="Footer3" href="useragreement.html" style="margin-right: 15px;">User Agreement |</a> </th>
+				<th id="Footer2"><a id="Footer3" href="Index2.html">Developer |</a> </th>
+				<th id="Footer2"><a id="Footer3" href="contact.html">Support |</a></th>
+			</tr>
+		</div>
+		<table style="width: auto;height: auto;margin-left:auto;margin-right:auto; auto;margin-top: 40px;margin-bottom: 40px;">
+		<tr>
+				<th><a href=""><img class="Footer1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzLAZ3H7Q647Oy3u1u4RfNfG2QQOYA2dl9TcMsg3ZP3z2igSNu&usqp=CAU" style="width: 3vw;height: 5vh;margin-right: 3px;"></th>
+				<th><a href=""><img class="Footer1" src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-instagram-black-amp;-white-icon-png-image_3547797.jpg" style="width: 3vw;height: 5vh; margin-right: 5px;"></a></th>
+				<th><a href=""><img class="Footer1" src="https://i.vippng.com/png/small/28-283916_png-file-download-icon-twitter-png.png" style="width: 3vw;height: 5vh; margin-right: 5px;"></a></th>
+				<th><a href=""><img class="Footer1" src="https://icons-for-free.com/iconfiles/png/512/book+circle+contact+contacts+email+gmail+icon-1320073243450677731.png" style="width: 3.2vw;height: 5vh;margin-left: 5px;margin-right: 5px;"></a></th>
+		</tr>
+			</table> 
+				
+
+
+
+</body>
+</html>
+	   

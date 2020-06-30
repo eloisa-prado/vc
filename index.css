@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="eng" dir="ltr">
+	<head>
+	   <meta charset="utf-8">
+	   <title>Logo</title>
+	   <link rel="stylesheet" type="text/css" href="indexstyle.css">
+	   <link rel="shortcut icon" type="image/css" href="logo.png">
+	</head>
+
+	   <body>
+		<div class="first">
+			<h2><img src="eloisa.jpeg" alt="eloisa" height="60" width="60"></h2>
+			<h1>Eloisa L. Prado </h1>
+		   <hr>
+			<p> Bachelor of Science in Information Technology </p>
+			<p>College Of Computing Sciences</p>
+			<p><a href="https://www.psu.edu.ph/">Pangasinan State University</a> </p>
+			<p> Lingayen, 2401</p>
+		  <hr>
+			<p>Click The Logo for more infromation</p>
+			
+		</div>
+		
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	   
+	<br>
+	  
+	  <center><a href="Index2.html" class="button">  <img src="logofront.jpg" alt="logofront" height="500" width="550"></a>
+	<br>
+	<br>
+	<br>
+	<div id="Footer">
+	<div style="position: none;float: center; font-size: 1.4vw;margin-left:auto; margin-right: auto; margin-top: 10px;margin-bottom: 5px;">
+			<ul id"Footer1"
+			<li id="Footer2"><a id="Footer3" href="Index2.html">&#0169;2020 All Rights Reserved.<br>  Eloisa Prado</a> </li>
+		<br>
+		</div>
+		
+	     
+
+
+
+
+
+</body>
+</html>

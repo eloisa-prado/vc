@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="eng" dir="ltr">
+	<head>
+	   <meta charset="utf-8">
+	   <title>Interest</title>
+	   <link rel="stylesheet" type="text/css" href="Intereststyle.css">
+	   <link rel="shortcut icon" type="image/css" href="logo.png">
+	</head>
+	<body>
+		<a href="Index2.html" class"button"> <img src="backarrow.png" alt="backarrow" height="40" width"55"> </a>    
+	       <div class="first">
+	   <br>
+	   <br>
+		   <h1>Interest</h1>
+	   <br>
+		</div>
+	       <div class="second">
+		   <h3>Playing Different Kinds Of Sports</h3>
+		      <div class="gallery">
+    		   	<img src="https://media1.giphy.com/media/3o85xLdJW6l1VDyvHq/giphy.webp?cid=ecf05e47d319afc8c372ed408e55d1c5dbfa2f8574c4261f&rid=giphy.webp" width="60" height="300">
+  	       	   	<center><h2>Baketball</h2></center>
+	      	      </div>
+		      <div class="gallery">
+    		   	<img src="https://media1.giphy.com/media/eKIXKFcp4oibK/200w.webp?cid=ecf05e47c21ca6540541368e4a8e6e3a3733627cc4493fbb&rid=200w.webp" width="60" height="300">
+  	       	   	<center><h2>Badminton</h2></center>
+	      	      </div>
+		      <div class="gallery">
+    		   	<img src="https://media2.giphy.com/media/xT5LMPIr1bQ8DwOlpe/200w.webp?cid=ecf05e472c98ef7272458fc65760f4939d16a839ec45a480&rid=200w.webp" width="60" height="300">
+  	       	   	<center><h2>Volleyball</h2></center>
+	      	      </div>
+		      <div class="gallery">
+    		   	<img src="https://media1.giphy.com/media/CANQcbL6B28pi/200.webp?cid=ecf05e47b0bbdb11c11f1f9b534b6525a491ce0a2fb50596&rid=200.webp" width="60" height="300">
+  	       	   	<center><h2>Soccer</h2></center>
+	      	      </div>
+			/
+			<br>
+			<br>
+		<div class="second">
+		   <h3>Watching Movies</h3>
+		      <div class="gallery">
+    		   	<img src="https://media3.giphy.com/media/9V1r4dxCWCa9Op1FwA/200w.webp?cid=ecf05e472ad979e98f665d778a760a00df1222dd6c792f8f&rid=200w.webp" width="60" height="300">
+  	       	   	<center><h2>YOU</h2></center>
+	       	      </div>
+		      <div class="gallery">
+    		   	<img src="https://media1.giphy.com/media/xT0BKFCwAIVNubKAG4/200w.webp?cid=ecf05e472baa2148928dadd45a8e627461e7c095cc3d4851&rid=200w.webp" width="60" height="300">
+  	       	   	<center><h2>Mowgli</h2></center>
+	      	      </div>
+		      <div class="gallery">
+    		   	<img src="https://media0.giphy.com/media/yqh0YzvhX0i7S/100.webp?cid=ecf05e477c37e16f44db8faf85891de7523de8ae4034bcb1&rid=100.webp" width="60" height="300">
+  	       	   	<center><h2>LUCY</h2></center>
+	      	      </div>
+		      <div class="gallery">
+    		   	<img src="https://media0.giphy.com/media/PpeGK6edBWAxi/giphy.webp?cid=ecf05e47c417dbd24d1b5de35ed76f06562fa1cbceabcfc0&rid=giphy.webp" width="60" height="300">
+  	       	   	<center><h2>Avengers</h2></center>
+	      	      </div>
+		/
+		<div class="second">
+		  <h3>Playing Online Games</h3>
+			<div class="gallery">
+    		   	<img src="https://media3.giphy.com/media/WQxJRzASkg08XuFaPv/200w.webp?cid=ecf05e4771b3dbe05f196cc93a3bea5afd4dab84cce7ee9e&rid=200w.webp" width="60" height="300">
+  	       	   	<center><h2>NBA 2K</h2></center>
+	      	      </div>
+			<div class="gallery">
+    		   	<img src="https://media0.giphy.com/media/S3hecAhQdVFPWo8ef0/giphy.webp?cid=ecf05e47ba0cd5a53cb8592b52124a41cc4e081f0885098c&rid=giphy.webp" width="60" height="300">
+  	       	   	<center><h2>ML</h2></center>
+	      	      </div>
+			<div class="gallery">
+    		   	<img src="https://media2.giphy.com/media/1n7cAJf3AJjSEp1KF6/200w.webp?cid=ecf05e47ebc9ae4c40c516fc3e638d0a56d3da6f63288941&rid=200w.webp" width="60" height="300">
+  	       	   	<center><h2>Homescapes</h2></center>
+	      	      </div>
+			<div class="gallery">
+    		   	<img src="https://media3.giphy.com/media/ZacieLN2WI2AedWrz9/100.webp?cid=ecf05e472f6751eaeb92f0d6ac10420bbb3d3d91c0ad7d62&rid=100.webp" width="60" height="300">
+  	       	   	<center><h2>PUBG</h2></center>
+	      	      </div>
+		<div id="Footer">
+		<!-- Left part footer -->
+		<div  style="position: none; float: left; font-size: 1.4vw; width: auto;height: auto;margin-left: auto;margin-top: 40px;">
+			<ul id="Footer1">
+				<li id="Footer2"><a id="Footer3" href="socialmedia.html" style="margin-right: 15px;">Feedback |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="Report.html">Report Problem |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="helpcenter.html">Help Center |</a></li>
+			</ul>
+		</div>
+
+		<!-- Right part Footer -->
+		<div style="position: none;float: right; font-size: 1.4vw;auto: 30%;auto: auto;margin-right: auto;margin-top: 40px;">
+			<ul id="Footer1">
+				<li id="Footer2"><a id="Footer3" href="useragreement.html" style="margin-right: 15px;">User Agreement |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="Index2.html">Developer |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="contact.html">Support |</a></li>
+			</ul>
+		</div>
+		
+		<table style="width: auto;height: auto;margin-left:auto;margin-right:auto; auto;margin-top: 40px;margin-bottom: 40px;">
+		<tr>
+				<th><a href=""><img class="Footer1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzLAZ3H7Q647Oy3u1u4RfNfG2QQOYA2dl9TcMsg3ZP3z2igSNu&usqp=CAU" style="width: 3vw;height: 5vh;margin-right: 3px;"></th>
+				<th><a href=""><img class="Footer1" src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-instagram-black-amp;-white-icon-png-image_3547797.jpg" style="width: 3vw;height: 5vh; margin-right: 5px;"></a></th>
+				<th><a href=""><img class="Footer1" src="https://i.vippng.com/png/small/28-283916_png-file-download-icon-twitter-png.png" style="width: 3vw;height: 5vh; margin-right: 5px;"></a></th>
+				<th><a href=""><img class="Footer1" src="https://www.clipartkey.com/mpngs/m/235-2354177_mail-svg-unread-white-gmail-icon-png.png" style="width: 3.2vw;height: 5vh;margin-left: 5px;margin-right: 5px;"></a></th>
+		</tr>
+			</table>
+</body>
+</html>

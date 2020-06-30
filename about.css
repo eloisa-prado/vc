@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="eng" dir="ltr">
+	<head>
+	   <meta charset="utf-8">
+	   <title>About</title>
+	   <link rel="stylesheet" type="text/css" href="aboutstyle.css"
+	   <link rel="shortcut icon" type="image/css" href="logo.png">
+	</head>
+	<body>
+		<a href="Index2.html" class"button"> <img src="backarrow.png" alt="backarrow" height="40" width"55"> </a>
+		<div class="first">
+	   <br>
+	   <br>
+		   <h1>About</h1>
+	   <br>
+		</div>
+	
+		<div class="second">
+			<br>
+		    <p>We're in the 21st century and today everything's about technology<br> It has been seen in almost every aspect of modern life.  Information technology <br>is incredibly diverse and it's not just about fixing computers or laptops.<br> This course will allow you to take your career in a number of different directions.<br> Careers may vary from a technical writer, web developer,<br> information technology director, chief technology officer and so much more.</p>
+		    <p>Hi I'm Eloisa L. Prado an IT student. Being an IT student is not easy <br>they say IT skills is not difficult to learn. In this course you can measure <br>how much patience you have, here you will wish you should have slept <br> when you had more time, here you will know how important time is, <br>here you can find out if you have entered a right course, you will cry on <br> this course because you do not know what to do, here you will know <br> how important are those sign is (- {} / \ " # * [] <>),<br>
+			having a 1-2 hours of sleep is already okay. Yes IT course is difficult<br> But you know IT course, is so enjoyable and exciting especially when your codes' run,<br> it is something else that you will feel when your codes' <br>run. You can learn a lot of things in IT course like web developing, programming assembling and disassembling a PC <br> and so much more, your knowledge will expand in the world of technology, <br>
+			This course will introduce you to a modern world. <br>
+			<br>
+			Studying something you love will give you a sense of achievement. <br> You'll have a new way of doing something. If you're really fascinated by <br> the technology world, why not take it a step further? And what better <br> way to turning a pastime into a full-time career.
+		   <br>
+		   <br>
+		</div>
+		<br>
+		<br>
+	   
+		<div id="Footer">
+		<!-- Left part footer -->
+		<div  style="position: none; float: left; font-size: 1.4vw; width: auto;height: auto;margin-left: auto;margin-top: 40px;">
+			<ul id="Footer1">
+				<li id="Footer2"><a id="Footer3" href="socialmedia.html" style="margin-right: 15px;">Feedback |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="Report.html">Report Problem |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="helpcenter.html">Help Center |</a></li>
+			</ul>
+		</div>
+
+		<!-- Right part Footer -->
+		<div style="position: none;float: right; font-size: 1.4vw;auto: 30%;auto: auto;margin-right: auto;margin-top: 40px;">
+			<ul id="Footer1">
+				<li id="Footer2"><a id="Footer3" href="useragreement.html" style="margin-right: 15px;">User Agreement |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="Index2.html">Developer |</a> </li>
+				<li id="Footer2"><a id="Footer3" href="contact.html">Support |</a></li>
+			</ul>
+		</div>
+		<!--Top part Footer-->
+		<table style="width: auto;height: auto;margin-left:auto;margin-right:auto;margin-top: 40px;margin-bottom: 30px;">
+		<tr>
+				<th><a href=""><img class="Footer1" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRzLAZ3H7Q647Oy3u1u4RfNfG2QQOYA2dl9TcMsg3ZP3z2igSNu&usqp=CAU" style="width: 3vw;height: 5vh;margin-right: 3px;"></th>
+				<th><a href=""><img class="Footer1" src="https://png.pngtree.com/png-clipart/20190515/original/pngtree-instagram-black-amp;-white-icon-png-image_3547797.jpg" style="width: 3vw;height: 5vh; margin-right: 5px;"></a></th>
+				<th><a href=""><img class="Footer1" src="https://i.vippng.com/png/small/28-283916_png-file-download-icon-twitter-png.png" style="width: 3vw;height: 5vh; margin-right: 5px;"></a></th>
+				<th><a href=""><img class="Footer1" src="https://icons-for-free.com/iconfiles/png/512/book+circle+contact+contacts+email+gmail+icon-1320073243450677731.png" style="width: 3.2vw;height: 5vh;margin-left: 5px;margin-right: 5px;"></a></th>
+		</tr>
+		
+			</table>
+		<!-- Right part Footer -->
+		<div style="position: center;float: right; font-size: 1.4vw; margin-right: auto;margin-top: 5px;">
+			<ul id="Footer1">
+			<center><li id="Footer2"><a id="Footer3" href="In">&#0169;2020 All Rights Reserved.</a></center> </li>
+		<br>
+		</div>
+		
+		
+</body>
+</html>
